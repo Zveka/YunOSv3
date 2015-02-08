@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_update_frequency_entry">
+        <item>Каждый час</item>
+        <item>Каждые два часа</item>
+        <item>Каждые три часа</item>
+        <item>Каждые шесть часов</item>
+        <item>Каждые двенадцать часов</item>
+        <item>Не обновлять</item>
+    </string-array>
+    <string-array name="auto_update_frequency_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wind_direction_code">
+        <item>E</item>
+        <item>SE</item>
+        <item>ESE</item>
+        <item>SSE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>SSW</item>
+        <item>WSW</item>
+        <item>W</item>
+        <item>NW</item>
+        <item>WNW</item>
+        <item>NNW</item>
+        <item>N</item>
+        <item>NE</item>
+        <item>NNE</item>
+        <item>ENE</item>
+        <item>WHW</item>
+        <item>NOW</item>
+    </string-array>
+    <string-array name="wind_direction_des">
+        <item>E</item>
+        <item>SE</item>
+        <item>ESE</item>
+        <item>SSE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>SSW</item>
+        <item>WSW</item>
+        <item>W</item>
+        <item>NW</item>
+        <item>WNW</item>
+        <item>NNW</item>
+        <item>N</item>
+        <item>NE</item>
+        <item>NNE</item>
+        <item>ENE</item>
+        <item>WHW</item>
+        <item>NOW</item>
+    </string-array>
+    <string-array name="weather_alarm_type">
+        <item>Тайфун</item>
+        <item>Шторм</item>
+        <item> Снежный шторм</item>
+        <item> Холодный фронт</item>
+        <item> Буря</item>
+        <item>Песчаная буря</item>
+        <item>Тепло</item>
+        <item>Сухо</item>
+        <item>Гроза</item>
+        <item>Град</item>
+        <item>Мороз</item>
+        <item>Туман</item>
+        <item>Дымка</item>
+        <item> Гололёд</item>
+    </string-array>
+    <string-array name="weather_alarm_level">
+        <item>Синий</item>
+        <item>Жёлтый</item>
+        <item>Оранжевый</item>
+        <item>Красный</item>
+    </string-array>
+    <string-array name="air_pollution_des_service">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>严重污染</item>
+        <item>爆表</item>
+    </string-array>
+    <integer-array name="air_pollution_code">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="air_pollution_des">
+        <item>Отлично</item>
+        <item>Хорошо</item>
+        <item>Слегка загрязнено</item>
+        <item>Умеренно загрязнено</item>
+        <item>Сильно загрязнено</item>
+        <item>Жёстко загрязнено</item>
+        <item>Жесть</item>
+    </string-array>
+    <string-array name="weather_condition_service">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>雨</item>
+        <item>小雨</item>
+        <item>小到中雨</item>
+        <item>中雨</item>
+        <item>中到大雨</item>
+        <item>大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨</item>
+        <item>暴到大暴雨</item>
+        <item>大暴雨</item>
+        <item>大暴到特大暴雨</item>
+        <item>特大暴雨</item>
+        <item>阵雨</item>
+        <item>雷阵雨</item>
+        <item>冻雨</item>
+        <item>雷雨冰雹</item>
+        <item>雪</item>
+        <item>雨夹雪</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>小到中雪</item>
+        <item>中雪</item>
+        <item>中到大雪</item>
+        <item>大雪</item>
+        <item>大到暴雪</item>
+        <item>暴雪</item>
+        <item>雾</item>
+        <item>雾霾</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>沙尘暴</item>
+        <item>强沙尘暴</item>
+        <item>霾</item>
+    </string-array>
+    <integer-array name="weather_condition_code">
+        <item>0</item>
+        <item>100</item>
+        <item>101</item>
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>206</item>
+        <item>207</item>
+        <item>208</item>
+        <item>209</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>213</item>
+        <item>214</item>
+        <item>215</item>
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>400</item>
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>500</item>
+        <item>900</item>
+        <item>901</item>
+    </integer-array>
+    <string-array name="weather_condition">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Сплошная облачность</item>
+        <item>Дождь</item>
+        <item>Небольшой дождь</item>
+        <item>Умеренно-лёгкий дождь</item>
+        <item>Средний дождь</item>
+        <item>Умеренно сильный дождь</item>
+        <item>Сильный дождь</item>
+        <item>Проливной дождь</item>
+        <item>Ливень</item>
+        <item>Сильный ливень</item>
+        <item>Сильный ливень</item>
+        <item>Ураганный ливень</item>
+        <item>Ураганный ливень</item>
+        <item>Ливень</item>
+        <item>Дождь с громом</item>
+        <item>Холодный дождь</item>
+        <item>Гроза с градом</item>
+        <item>Снег</item>
+        <item>Мокрый снег</item>
+        <item>Снежный шквал</item>
+        <item>Лёгкий снег</item>
+        <item>Средний снегопад</item>
+        <item>Умеренный снегопад</item>
+        <item>Умеренно-сильный снегопад</item>
+        <item>Сильный снегопад</item>
+        <item>Очень сильный снегопад</item>
+        <item>Метель</item>
+        <item>Туман</item>
+        <item>Дымка</item>
+        <item>Пылевой ветер</item>
+        <item>Ветер с песком</item>
+        <item>Песчаная буря</item>
+        <item>Сильная песчаная буря</item>
+        <item>Дымка</item>
+        <item>Обновляю погоду</item>
+        <item>Погода не обновлена</item>
+    </string-array>
+    <string-array name="city_filter">
+        <item>盟</item>
+        <item>市</item>
+        <item>县</item>
+        <item>地区</item>
+        <item>区</item>
+        <item>蒙古自治州</item>
+        <item>哈萨克自治州</item>
+        <item>蒙古族藏族自治州</item>
+        <item>壮族苗族自治州</item>
+        <item>哈尼族彝族自治州</item>
+        <item>白族自治州</item>
+        <item>回族自治州</item>
+        <item>土家族苗族自治州</item>
+        <item>朝鲜族自治州</item>
+        <item>布依族苗族自治州</item>
+        <item>苗族侗族自治州</item>
+        <item>彝族自治州</item>
+        <item>藏族自治州</item>
+        <item>藏族羌族自治州</item>
+        <item>傈僳族自治州</item>
+        <item>柯尔克孜自治州</item>
+        <item>傣族景颇族自治州</item>
+        <item>傣族自治州</item>
+        <item>特别行政区</item>
+    </string-array>
+    <string-array name="search_city_filter">
+        <item>自治区</item>
+        <item>自治县</item>
+        <item>自治旗</item>
+        <item>市</item>
+        <item>县</item>
+        <item>区</item>
+        <item>旗</item>
+        <item>zizhixian</item>
+        <item>zizhiqu</item>
+        <item>zizhiqi</item>
+        <item>shi</item>
+        <item>xian</item>
+        <item>qu</item>
+        <item>qi</item>
+    </string-array>
+</resources>

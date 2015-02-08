@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_confirm_skip">"Это займет всего несколько секунд, 
+и вы получите шанс выиграть бесплатную страховку или красные пакеты для первой настройки. 
+Вы уверены, что хотите пропустить?"</string>
+    <string name="app_name">Первый Опыт</string>
+    <string name="simplech">简体中文（默认）</string>
+    <string name="traditionalch">繁體中文</string>
+    <string name="english">Английский</string>
+    <string name="next">Далее</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="experience_file">file:///android_asset/policy_ru.html</string>
+    <string name="yunos_account_active_ok">OK</string>
+    <string name="yunos_agree">"Принять "</string>
+    <string name="yunos_not_agree">Отклонить</string>
+    <string name="yunos_policy_title">YunOS UX программа улучшения</string>
+    <string name="ue_plan_title">YunOS UX программа улучшения</string>
+    <string name="boot_setup_complete_desc">"Поздравляю!
+Телефон настроен"</string>
+    <string name="yunos_regist_later">Пропустить</string>
+    <string name="complete_use">Начало работы</string>
+    <string name="yunos_login">Вход</string>
+    <string name="yunos_skip_setup">Пропустить</string>
+    <string name="yunos_quick_setup">Быстрая настройка</string>
+    <string name="yunos_leave">Выход</string>
+    <string name="ue_plan_bt_label">OK</string>
+    <string name="service_settings_title">Разрешить сервисы</string>
+    <string name="service_settings_weather_title">Погодный сервис</string>
+    <string name="service_settings_weather_summary">Авто-обновление погоды в Вашем городе</string>
+    <string name="service_settings_location_title">Сервис местоположения</string>
+    <string name="service_settings_location_summary">Точно определить Ваше местоположение</string>
+    <string name="introduce_alipass">"Войдите в систему с Alipass,
+Жизнь может быть гораздо проще"</string>
+    <string name="introduce_cloud">"Синхронизация и резервное копирование в любом месте и в
+и в любое время. Нет больше потери данных"</string>
+    <string name="introduce_location">Куда бы вы ни пошли, всегда с вами.</string>
+    <string name="introduce_gift">"Бесплатное страхование и красные пакеты
+ждут Вас"</string>
+    <string name="notification_weibo_title">Следуйте за YunOS на Sina weibo</string>
+    <string name="notification_weibo_summary">Получить все последние новости и обратную связь</string>
+    <string name="notification_weibo_yunos_nick">YunOS</string>
+    <string name="service_hint">Вышеперечисленные услуги будут собирать Ваше местоположение в анонимной форме, это может увеличить расход трафика.</string>
+    <string name="hw_more">Еще</string>
+    <string name="russian">Русский</string>
+</resources>

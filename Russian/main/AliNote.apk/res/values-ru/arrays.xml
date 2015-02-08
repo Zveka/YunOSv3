@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entrys_img">
+        <item>Отправить через Сообщение</item>
+        <item>Отправить через Email</item>
+        <item>Отправить через Bluetooth</item>
+        <item>Отправить на Sina Weibo</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="entrys_voice">
+        <item>Отправить через Сообщение</item>
+        <item>Отправить через Email</item>
+        <item>Отправить через Bluetooth</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="entrys_img_no_bt">
+        <item>Отправить через Сообщение</item>
+        <item>Отправить через Email</item>
+        <item>Отправить на Sina Weibo</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="entrys_voice_no_bt">
+        <item>Отправить через Сообщение</item>
+        <item>Отправить через Email</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="entrys_text">
+        <item>Отправить через Сообщение</item>
+        <item>Отправить через Email</item>
+        <item>Отправить на Sina Weibo</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="entrys_limit">
+        <item>Удалить</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Безопасность системы</string>
+    <string name="permission_remember_choice">Запомнить мой выбор</string>
+    <string name="root_notify_context">Устройство Рутовано от %1$s</string>
+    <string name="root_refuse_context">Рут-доступ %1$s был отклонен.</string>
+    <string name="root_allow_context">Рут-доступ %1$s был разрешен.</string>
+    <string name="rooted_notify_context">Ваше устройство Рутовано</string>
+    <string name="rooted_confirm">Продолжить</string>
+    <string name="scan_verus">сканировать на вирусы</string>
+    <string name="continue_pay">Продолжить</string>
+    <string name="rooted_warning_ticket">система Рутована и безопасность не может быть гарантирована</string>
+    <string name="rooted_warning_title">система Рутована и безопасность не может быть гарантирована</string>
+    <string name="rooted_warning_text">рекомендуется немедленная чистка от троянов.</string>
+    <string name="rooted_launch_warning">Система Рутована и незащищенна, рекомендуется обязательный поиск вирусов.</string>
+    <string name="refuse">Отказать</string>
+    <string name="allow">Разрешить</string>
+</resources>

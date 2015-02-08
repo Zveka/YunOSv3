@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Облачный аккаунт</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">OK</string>
+    <string name="logout_title">Выход</string>
+    <string name="logout_title_text">Выход...</string>
+    <string name="checkphonenun">Проверка номера телефона...</string>
+    <string name="netbusymills">Сеть оператора занята, подождите %d сек</string>
+    <string name="SendMsgError">Не удалось отправить сообщение, повторите попытку</string>
+    <string name="comfirm_logout">Выход</string>
+    <string name="logout_hint">Обратите внимание, что облачные службы, например синхронизация, резервное копирование, будут недоступны после выхода.</string>
+    <string name="deletedata_logout_tip">Все контакты, заметки на телефоне будут удалены</string>
+    <string name="leftdata_logout_default">Хранить данные (по умолчанию)</string>
+    <string name="deletedata_logout">Удалить данные</string>
+    <string name="agree">Принять</string>
+    <string name="reg_bindphone_desc">Зарегистрироваться на Taobao с Вашим номером телефона</string>
+    <string name="reg_bindphone_warn">Оператор может взимать 0,1 юаня за подтверждающее сообщение. Никаких других оплат.</string>
+    <string name="reg_bindphone_other_link">Использовать другой номер телефона</string>
+    <string name="reg_success_desc">С этой учетной записью вы можете получить доступ к услугам Alibaba, YunOS, Taobao, Alipay, LaiWang, Xiami музыка, AutoNavi и др. И пожалуйста обновите Ник Taobao на мобильном клиенте Taobao или www.taobao.com.</string>
+    <string name="reg_retrieve_password">Для дополнительных сведений о вашем аккаунте и параметрах аккаунта, посетите www.alipay.com</string>
+    <string name="reg_finish">Готово</string>
+    <string name="reg_success">Успешный вход</string>
+    <string name="reg_input_pass">Ввод пароля</string>
+    <string name="reg_input_repass">Повтор пароля</string>
+    <string name="reg_pass_invalid">6-20 знаков</string>
+    <string name="yunos_login">Вход</string>
+    <string name="login_out_account">Выход</string>
+    <string name="yunos_login_act_alipayhint">phone/email</string>
+    <string name="yunos_login_pwd">Пароль</string>
+    <string name="yunos_account_import_loading">Проверка...</string>
+    <string name="yunos_account_term"><u>Условия предоставления услуг YunOS</u></string>
+    <string name="yunos_import_aliyun_title">Импорт данных Облачного аккаунта</string>
+    <string name="yunos_import_aliyun_text1">Можно импортировать данные из других Облачных аккаунтов в текущий аккаунт</string>
+    <string name="yunos_act_and_pwd_null">Введите Имя пользователя и пароль</string>
+    <string name="yunos_act_null">Введите Имя пользователя</string>
+    <string name="yunos_pwd_null">Введите пароль</string>
+    <string name="yunos_act_or_pwd_error">Неправильные имя пользователя или пароль</string>
+    <string name="reg_revice_msg">Переслать сообщение</string>
+    <string name="yunos_act_or_pwd_error_times">Неправильные имя пользователя или пароль, %d попробуйте еще.</string>
+    <string name="yunos_account_manager">Аккаунт</string>
+    <string name="import_data_from_cloudaccount">Импорт данных Облачного аккаунта</string>
+    <string name="freeze_five_time_tip">Ваша учетная запись была заблокирована, вы достигли лимита ввода неправильного пароля. Пожалуйста, проверьте ваши сообщения или электронную почту, чтобы разблокировать или повторите через 3 часа.</string>
+    <string name="yunos_freeze_import_tip">Ваша учетная запись была заблокирована, вы достигли лимита ввода неправильного пароля.Повторите через 30 минут.</string>
+    <string name="reg_validate_error">Неправильный проверочный код, попробуйте еще</string>
+    <string name="reg_validate_invalid">Код проверки истек, пожалуйста, повторите</string>
+    <string name="reg_validate_empty_msg">Введите проверочный код</string>
+    <string name="reg_sending_msg">Отправка сообщения...</string>
+    <string name="reg_checking_validatecode">Подтверждение проверочного кода</string>
+    <string name="reg_register">Вход...</string>
+    <string name="reg_repass_error">Пароли не совпадают</string>
+    <string name="reg_input_validatecode_hint">Ввод кода</string>
+    <string name="reg_input_number_hint">Номер телефона</string>
+    <string name="reg_error">Неудачная регистрация</string>
+    <string name="reg_code_send_frequently">Необходимо слишком много сообщений, попробуйте снова через 24 часа.</string>
+    <string name="reg_error_msg">Извините, вы не можете зарегистрировать этот номер телефона, пожалуйста посетите www.taobao.com или зарегистрируйтесь с другим номером.</string>
+    <string name="yunos_have_know_tip">OK</string>
+    <string name="reg_mobile_number_error">Некорректный номер телефона</string>
+    <string name="yunos_change_account"><u>Изменение аккаунта</u></string>
+    <string name="yunos_import_in_progress">Импортирование данных</string>
+    <string name="yunos_import_success">Данные импортированы</string>
+    <string name="yunos_import_failed">Неудачный импорт данных</string>
+    <string name="yunos_reimport">Повтор</string>
+    <string name="yunos_import_ok">Готово</string>
+    <string name="yunos_hadimport_ok">OK</string>
+    <string name="yunos_data_hadimported_tip">Данные этого Облачного аккаунта были экспортированы в другой аккаунт. Не удается экспортировать их снова.</string>
+    <string name="reg_validate_number_msg">Проверка номера телефона</string>
+    <string name="reg_send_error">Не удалось отправить код подтверждения</string>
+    <string name="reg_current_number">Использовать текущий номер телефона</string>
+    <string name="change_validate_code"><u>Обновить</u></string>
+    <string name="yunos_login_verify_tip">Введите проверочный код</string>
+    <string name="yunos_import_account_tip">Если у вас есть Облачный аккаунт, его данные могут быть импортированы в текущий аккаунт</string>
+    <string name="ask_connect_wifi">Нет доступа к сети, настроить сейчас?</string>
+    <string name="reg_title_msg">Зарегистрироваться</string>
+    <string name="yunos_login_default_failed_tip">Неудачный вход</string>
+    <string name="yunos_login_failed_net_tip">Ошибка сетевого подключения</string>
+    <string name="yunos_login_old_account">phone/username</string>
+    <string name="yunos_register_upper_msg">В пароле не могут быть только прописные буквы</string>
+    <string name="yunos_register_lower_msg">В пароле не могут быть только строчные букв</string>
+    <string name="yunos_register_number_msg">В пароле не могут быть только цифры</string>
+    <string name="yunos_register_symbol_msg">В пароле не могут быть только символы</string>
+    <string name="yunos_register_notchar_msg">Пароль не может содержать недопустимые символы</string>
+    <string name="yunos_input_validatecode_msg">Проверочный код автоматически заполнен</string>
+    <string name="yunos_checking">Проверка...</string>
+    <string name="yunos_help_title">Помощь</string>
+    <string name="yunos_os_login_title">Вход с Облачного аккаунта</string>
+    <string name="confirm_skip_btn">Пропустить</string>
+    <string name="reg_inputnumber_desc">Зарегистрироваться в Taobao с телефонным номером</string>
+    <string name="reg_success_desc2" />
+    <string name="ali_pass">Аккаунт Taobao</string>
+    <string name="free_register">Зарегистрироваться бесплатно</string>
+    <string name="alipay_login">Вход с Alipay</string>
+    <string name="existed_account">Вы можете войти в аккаунты, которые вы зарегистрировали</string>
+    <string name="confirm_import_data">Текущие данные будут переопределены когда другие Облачные аккаунты импортируются. Импортировать их?</string>
+    <string name="alipass_notice">Taobao аккаунт был создан для вашего аккаунта Alipay</string>
+    <string name="alipass_notice_desc">Alipay аккаунт был обновлен, вы можете просто войти с помощью аккаунта Taobao.</string>
+    <string name="account_is_locked">Эта учетная запись была заблокирована</string>
+    <string name="login_by_alipay">Вход с Alipay</string>
+    <string name="yunos_login_act_passhint">Taobao ID/телефон/email</string>
+    <string name="login_by_matched_taobao">Ваш Taobao аккаунт совпадает</string>
+    <string name="alipay_exception">Taobao аккаунт не совпадает, попробуйте другой аккаунт Taobao.</string>
+    <string name="alipass_account">Аккаунт</string>
+    <string name="alipass_reg_success">Успешный вход</string>
+    <string name="sim_register_1">SIM1</string>
+    <string name="sim_register_2">SIM2</string>
+    <string name="tao_account_tip">Найти Ваш Taobao аккаунт （%s）</string>
+    <string name="tao_account_atonce">Быстрый вход</string>
+    <string name="login_other_account">Вход с другим аккаунтом</string>
+    <string name="tao_sso_logining">Вход в......</string>
+    <string name="import_another_yunos_account">Использовать другие Облачные аккаунты</string>
+    <string name="help_file">"предоставить вам более эффективных услуг, аккаунт YunOS был обновлен. Вы можете получить доступ к различные услуги ЮНОС с Taobao учетной записи.
+
+Как войти с Облачным аккаунтом?
+Если ваш Облачный аккаунт был связан с Вашим номером телефона, который был сопоставлен с Taobao аккаунтом, вы можете просто войти с учетной записью Taobao. Мы будем идентифицировать вас по номеру телефона.
+Если ваш Облачный аккаунт не был связан с номером телефона, просто введите логин и пароль.
+
+Как войти в аккаунт Alipay?
+Нажмите Войти в Aliapy и войдите в систему. Мы идентифицируем аккаунт Taobao сопоставим его и поможем Вам, чтобы войти с аккаунтом Taobao для передачи данных быстро и безопасно.
+
+Забыли ваш пароль?
+Пожалуйста, посетите соответствующий веб-сайт, чтобы найти ваш пароль:
+Taobao аккаунт, посетите www.taobao.com
+Для Alipay аккаунта, посетите www.alipay.com
+Для Облачного аккаунта, посетите www.aliyun.com
+
+Для получения дополнительной информации, посетите bbs.yunos.com
+
+YunOS
+"</string>
+    <string name="hint_login_again">Проверки не удалось, войдите снова</string>
+    <string name="alipass_mapping_taobao_tip">Все YunOS услуги доступны для аккаунта Taobao</string>
+    <string name="input_verification_code_tip">Пожалуйста проверьте сообщение, для получения проверочного кода</string>
+    <string name="reg_verfication_code_hint">Ввод проверочного кода</string>
+    <string name="wifi_setting">Параметры</string>
+    <string name="auth_management">Авторизация аккаунта</string>
+    <string name="logout_tip">Введите пароль для подтверждения, отключения «Анти-Вор»</string>
+    <string name="yunos_validate_password_error">Неправильный пароль, пожалуйста повторите</string>
+    <string name="ssl_time_error">Сбой проверки подлинности сертификата, проверьте системное время.</string>
+    <string name="password_validating">Проверка пароля</string>
+    <string name="not_support_yunos">Ваша учетная запись не поддерживает YunOS, войдите в систему с другой учетной записью.</string>
+    <string name="yunos_validate_password_error_times">Неверный пароль, осталось %d попыток</string>
+    <string name="login_exist_taobao_account_error" formatted="false">Вы вошли в YunOS (%s). Мы предлагаем вам войти в с （%s）.</string>
+    <string name="forget_password">Получить пароль</string>
+    <string name="help_info_msg">Нет доступа к сети, проверьте сеть и повторите попытку!</string>
+    <string name="same_account_name">"Taobao аккаунт: %s
+Пароль：одинаков с паролем аккаунта Alipay"</string>
+    <string name="change_account">Изменение аккаунта</string>
+    <string name="password_rule">Пароль должен быть 6~20 символов и включает в себя цифры или символами</string>
+    <string name="reg_account">Аккаунт: %s</string>
+    <string name="hw_more">Еще</string>
+</resources>
