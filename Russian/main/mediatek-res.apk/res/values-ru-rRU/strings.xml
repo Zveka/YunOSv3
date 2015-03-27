@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sd_accessing_swtich_user_title">Переключить пользователя?</string>
+    <string name="sd_accessing_swtich_user_message">Все несохраненные данные будут утеряны или повреждены.</string>
+    <string name="byteShort">B</string>
+</resources>

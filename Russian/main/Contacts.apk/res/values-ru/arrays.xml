@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contacts_group_action_items">
+        <item>Отправить сообщение группе</item>
+        <item>Добавить членов группы</item>
+        <item>Удалить членов группы</item>
+        <item>Переименовать группу</item>
+        <item>Удалить группу</item>
+    </string-array>
+    <string-array name="contacts_no_memeber_group_action_items">
+        <item>Добавить членов группы</item>
+        <item>Переименовать группу</item>
+        <item>Удалить группу</item>
+    </string-array>
+    <string-array name="dialpad_records_filter_items">
+        <item>Все</item>
+        <item>Пропущенные</item>
+        <item>Входящие</item>
+        <item>Исходящие</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+    </string-array>
+    <string-array name="mark_tag_type_items">
+        <item>@string/tag_type_haras</item>
+        <item>@string/tag_type_fraud</item>
+        <item>@string/tag_type_custom</item>
+        <item>@string/tag_type_advertisment</item>
+        <item>@string/tag_type_house</item>
+        <item>@string/tag_type_delivery</item>
+    </string-array>
+</resources>

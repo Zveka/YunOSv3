@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_update_frequency_entry">
+        <item>Каждый час</item>
+        <item>Каждые два часа</item>
+        <item>Каждые три часа</item>
+        <item>Каждые шесть часов</item>
+        <item>Каждые двенадцать часов</item>
+        <item>Не обновлять</item>
+    </string-array>
+    <string-array name="auto_update_frequency_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>0</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Полное копирование</string>
+    <string name="restore_confirm_title">Полное восстановление</string>
+    <string name="backup_confirm_text">"Было выбрано полное копирование всех данных на локальный компьютер. Вы действительно хотите продолжить?
+
+Если вы этого не делали, отмените данный процесс"</string>
+    <string name="allow_backup_button_label">Сделать копию данных</string>
+    <string name="deny_backup_button_label">Не делать копию данных</string>
+    <string name="restore_confirm_text">"Было выбрано полное восстановление всех данных с локального компьютера. Вы действительно хотите продолжить?
+
+Если вы этого не делали, отмените данный процесс. Данная операция заменит все данные на вашем телефоне!"</string>
+    <string name="allow_restore_button_label">Восстановить мои данные</string>
+    <string name="deny_restore_button_label">Не восстанавливать</string>
+    <string name="current_password_text">Введите свой пароль для восстановления данных:</string>
+    <string name="device_encryption_restore_text">Введите ваш пароль для шифрования данных</string>
+    <string name="device_encryption_backup_text">Введите ваш пароль для шифрования данных. Он будет использован для шифрования архива с данными</string>
+    <string name="backup_enc_password_text">Введите ваш пароль, который был использован для шифрования данных. Если оставить это поле пустым, будет использован ваш текущий пароль:</string>
+    <string name="backup_enc_password_optional">Если вы хотите использовать шифрование, используйте пароль:</string>
+    <string name="restore_enc_password_text">Если использовалось шифрование, введите пароль:</string>
+    <string name="toast_backup_started">Копирование началось...</string>
+    <string name="toast_backup_ended">Копирование завершено</string>
+    <string name="toast_restore_started">Восстановление запущено...</string>
+    <string name="toast_restore_ended">Восстановление завершено</string>
+    <string name="toast_timeout">Истекло время ожидания операции</string>
+</resources>

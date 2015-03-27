@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_cloaddataDisplayNames">
+        <item>@string/contacts</item>
+        <item>@string/image</item>
+        <item>@string/sms</item>
+        <item>@string/note</item>
+        <item>@string/calllog</item>
+        <item>@string/calendar</item>
+    </string-array>
+    <string-array name="default_cloaddataAppNames">
+        <item>contacts</item>
+        <item>photo</item>
+        <item>sms</item>
+        <item>notes</item>
+        <item>calllog</item>
+        <item>calendar</item>
+    </string-array>
+    <string-array name="default_cloaddataAppKeys">
+        <item>Ycontactcq4G58EG</item>
+        <item>YphotocpzyZdjPsA</item>
+        <item>YsmsNW4UiGCAgtdS</item>
+        <item>YnotesG1OnRmFLA4</item>
+        <item>Ycalllogn0Sm7Kfy</item>
+        <item>15de805b3073d971eb8ca1cc249f93ef</item>
+    </string-array>
+</resources>

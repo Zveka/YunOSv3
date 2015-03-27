@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="simple_buttons">
+        <item>@id/digit0</item>
+        <item>@id/digit1</item>
+        <item>@id/digit2</item>
+        <item>@id/digit3</item>
+        <item>@id/digit4</item>
+        <item>@id/digit5</item>
+        <item>@id/digit6</item>
+        <item>@id/digit7</item>
+        <item>@id/digit8</item>
+        <item>@id/digit9</item>
+        <item>@id/dot</item>
+        <item>@id/plus</item>
+        <item>@id/minus</item>
+        <item>@id/div</item>
+        <item>@id/mul</item>
+        <item>@id/equal</item>
+        <item>@id/del</item>
+        <item>@id/adv</item>
+        <item>@id/sign</item>
+    </array>
+    <array name="advanced_buttons">
+        <item>@id/leftParen</item>
+        <item>@id/rightParen</item>
+        <item>@id/sin</item>
+        <item>@id/cos</item>
+        <item>@id/tan</item>
+        <item>@id/ln</item>
+        <item>@id/lg</item>
+        <item>@id/e</item>
+        <item>@id/pi</item>
+        <item>@id/power</item>
+        <item>@id/factorial</item>
+        <item>@id/sqrt</item>
+    </array>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>открывающая скобка</item>
+        <item>закрывающая скобка</item>
+        <item>факториал числа</item>
+        <item>натуральный логарифм числа</item>
+        <item>логарифм числа</item>
+        <item>квадратный корень из числа</item>
+        <item>разделить на</item>
+        <item>умножить на</item>
+        <item>плюс</item>
+        <item>минус</item>
+        <item>десятичный разделитель</item>
+        <item>в степени</item>
+        <item>тангенс</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>число \"пи\"</item>
+        <item>равно</item>
+    </string-array>
+</resources>

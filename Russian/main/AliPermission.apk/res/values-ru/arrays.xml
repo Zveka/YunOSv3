@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="perm_group_icons">
+        <item>@drawable/aui_ic_location_normal</item>
+        <item>@drawable/aui_ic_contact_normal</item>
+        <item>@drawable/aui_ic_call_normal</item>
+        <item>@drawable/aui_ic_message_normal</item>
+        <item>@drawable/aui_ic_browser_normal</item>
+        <item>@drawable/aui_ic_phone_normal</item>
+        <item>@drawable/aui_ic_sound_normal</item>
+    </array>
+    <string-array name="aliperm_groups1_names">
+        <item>aliperms_grp1_highrisk</item>
+        <item>aliperms_grp1_communication</item>
+        <item>aliperms_grp1_privacy</item>
+        <item>aliperms_grp1_security</item>
+    </string-array>
+    <string-array name="aliperm_groups1_labels">
+        <item>@string/aliperms_grp1_highrisk</item>
+        <item>@string/aliperms_grp1_communication</item>
+        <item>@string/aliperms_grp1_privacy</item>
+        <item>@string/aliperms_grp1_security</item>
+    </string-array>
+    <array name="aliperm_groups1_ids">
+        <item>@array/aliperms_grp1_highrisk</item>
+        <item>@array/aliperms_grp1_communication</item>
+        <item>@array/aliperms_grp1_privacy</item>
+        <item>@array/aliperms_grp1_security</item>
+    </array>
+    <string-array name="aliperms_grp1_highrisk">
+        <item>aliperms_grp2_comm_send_sms</item>
+        <item>aliperms_grp2_comm_send_mms</item>
+        <item>aliperms_grp2_comm_call_phone</item>
+        <item>aliperms_grp2_comm_read_contacts</item>
+    </string-array>
+    <string-array name="aliperms_grp1_communication">
+        <item>aliperms_grp2_comm_send_email</item>
+        <item>aliperms_grp2_comm_write_contacts</item>
+        <item>aliperms_grp2_comm_read_device_id</item>
+        <item>aliperms_grp2_comm_read_call_state</item>
+        <item>aliperms_grp2_comm_intercept</item>
+    </string-array>
+    <string-array name="aliperms_grp1_privacy">
+        <item>aliperms_grp2_priv_location</item>
+        <item>aliperms_grp2_priv_record_audio</item>
+        <item>aliperms_grp2_priv_camera</item>
+    </string-array>
+    <string-array name="aliperms_grp1_security">
+        <item>aliperms_grp2_sec_internet_mobile</item>
+        <item>aliperms_grp2_sec_internet_wifi</item>
+        <item>aliperms_grp2_sec_display</item>
+    </string-array>
+    <string-array name="aliperms_grp2_default_ask">
+        <item>aliperms_grp2_comm_send_sms</item>
+        <item>aliperms_grp2_comm_send_mms</item>
+        <item>aliperms_grp2_comm_call_phone</item>
+        <item>aliperms_grp2_comm_read_contacts</item>
+        <item>aliperms_grp2_comm_write_contacts</item>
+        <item>aliperms_grp2_comm_send_email</item>
+        <item>aliperms_grp2_priv_location</item>
+        <item>aliperms_grp2_priv_record_audio</item>
+        <item>aliperms_grp2_priv_camera</item>
+        <item>aliperms_grp2_sec_internet_mobile</item>
+    </string-array>
+    <string-array name="aliperms_grp2_default_deny">
+        <item>aliperms_grp2_sec_display</item>
+    </string-array>
+    <string-array name="aliperms_grp2_default_ask_cta">
+        <item>aliperms_grp2_comm_send_sms</item>
+        <item>aliperms_grp2_comm_send_mms</item>
+        <item>aliperms_grp2_comm_call_phone</item>
+        <item>aliperms_grp2_comm_read_contacts</item>
+        <item>aliperms_grp2_comm_write_contacts</item>
+        <item>aliperms_grp2_comm_send_email</item>
+        <item>aliperms_grp2_priv_location</item>
+        <item>aliperms_grp2_priv_record_audio</item>
+        <item>aliperms_grp2_priv_camera</item>
+        <item>aliperms_grp2_sec_internet_mobile</item>
+        <item>aliperms_grp2_sec_internet_wifi</item>
+    </string-array>
+    <string-array name="aliperms_grp2_can_ask">
+        <item>aliperms_grp2_comm_send_sms</item>
+        <item>aliperms_grp2_comm_send_mms</item>
+        <item>aliperms_grp2_comm_send_email</item>
+        <item>aliperms_grp2_comm_call_phone</item>
+        <item>aliperms_grp2_comm_read_contacts</item>
+        <item>aliperms_grp2_comm_write_contacts</item>
+        <item>aliperms_grp2_comm_read_device_id</item>
+        <item>aliperms_grp2_priv_location</item>
+        <item>aliperms_grp2_priv_record_audio</item>
+        <item>aliperms_grp2_priv_camera</item>
+        <item>aliperms_grp2_sec_internet_mobile</item>
+        <item>aliperms_grp2_sec_internet_wifi</item>
+        <item>aliperms_grp2_sec_display</item>
+    </string-array>
+    <string-array name="aliperm_groups2_names">
+        <item>aliperms_grp2_comm_send_sms</item>
+        <item>aliperms_grp2_comm_send_mms</item>
+        <item>aliperms_grp2_comm_send_email</item>
+        <item>aliperms_grp2_comm_call_phone</item>
+        <item>aliperms_grp2_comm_read_contacts</item>
+        <item>aliperms_grp2_comm_write_contacts</item>
+        <item>aliperms_grp2_comm_read_device_id</item>
+        <item>aliperms_grp2_comm_read_call_state</item>
+        <item>aliperms_grp2_comm_intercept</item>
+        <item>aliperms_grp2_priv_location</item>
+        <item>aliperms_grp2_priv_record_audio</item>
+        <item>aliperms_grp2_priv_camera</item>
+        <item>aliperms_grp2_sec_internet_mobile</item>
+        <item>aliperms_grp2_sec_internet_wifi</item>
+        <item>aliperms_grp2_sec_display</item>
+    </string-array>
+    <string-array name="aliperm_groups2_labels">
+        <item>@string/aliperms_grp2_comm_send_sms</item>
+        <item>@string/aliperms_grp2_comm_send_mms</item>
+        <item>@string/aliperms_grp2_comm_send_email</item>
+        <item>@string/aliperms_grp2_comm_call_phone</item>
+        <item>@string/aliperms_grp2_comm_read_contacts</item>
+        <item>@string/aliperms_grp2_comm_write_contacts</item>
+        <item>@string/aliperms_grp2_comm_read_device_id</item>
+        <item>@string/aliperms_grp2_comm_read_call_state</item>
+        <item>@string/aliperms_grp2_comm_intercept</item>
+        <item>@string/aliperms_grp2_priv_location</item>
+        <item>@string/aliperms_grp2_priv_record_audio</item>
+        <item>@string/aliperms_grp2_priv_camera</item>
+        <item>@string/aliperms_grp2_sec_internet_mobile</item>
+        <item>@string/aliperms_grp2_sec_internet_wifi</item>
+        <item>@string/aliperms_grp2_sec_display</item>
+    </string-array>
+    <string-array name="aliperm_groups2_sublabels">
+        <item>@string/aliperms_grp2_sub_comm_send_sms</item>
+        <item>@string/aliperms_grp2_sub_comm_send_mms</item>
+        <item>@string/aliperms_grp2_sub_comm_send_email</item>
+        <item>@string/aliperms_grp2_sub_comm_call_phone</item>
+        <item>@string/aliperms_grp2_sub_comm_read_contacts</item>
+        <item>@string/aliperms_grp2_sub_comm_write_contacts</item>
+        <item>@string/aliperms_grp2_sub_comm_read_device_id</item>
+        <item>@string/aliperms_grp2_sub_comm_read_call_state</item>
+        <item>@string/aliperms_grp2_sub_comm_intercept</item>
+        <item>@string/aliperms_grp2_sub_priv_location</item>
+        <item>@string/aliperms_grp2_sub_priv_record_audio</item>
+        <item>@string/aliperms_grp2_sub_priv_camera</item>
+        <item>@string/aliperms_grp2_sub_sec_internet_mobile</item>
+        <item>@string/aliperms_grp2_sub_sec_internet_wifi</item>
+        <item>@string/aliperms_grp2_sub_sec_display</item>
+    </string-array>
+    <array name="aliperm_groups2_ids">
+        <item>@array/aliperms_grp2_comm_send_sms</item>
+        <item>@array/aliperms_grp2_comm_send_mms</item>
+        <item>@array/aliperms_grp2_comm_send_email</item>
+        <item>@array/aliperms_grp2_comm_call_phone</item>
+        <item>@array/aliperms_grp2_comm_read_contacts</item>
+        <item>@array/aliperms_grp2_comm_write_contacts</item>
+        <item>@array/aliperms_grp2_comm_read_device_id</item>
+        <item>@array/aliperms_grp2_comm_read_call_state</item>
+        <item>@array/aliperms_grp2_comm_intercept</item>
+        <item>@array/aliperms_grp2_priv_location</item>
+        <item>@array/aliperms_grp2_priv_record_audio</item>
+        <item>@array/aliperms_grp2_priv_camera</item>
+        <item>@array/aliperms_grp2_sec_internet_mobile</item>
+        <item>@array/aliperms_grp2_sec_internet_wifi</item>
+        <item>@array/aliperms_grp2_sec_display</item>
+    </array>
+    <string-array name="aliperms_grp2_comm_send_sms">
+        <item>android.permission.SEND_SMS</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_send_mms">
+        <item>yunos.permission.SEND_MMS</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_send_email">
+        <item>yunos.permission.SEND_EMAIL</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_call_phone">
+        <item>android.permission.CALL_PHONE</item>
+        <item>yunos.permission.END_CALL</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_read_contacts">
+        <item>android.permission.READ_CONTACTS</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_write_contacts">
+        <item>yunos.permission.WRITE_CONTACTS</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_read_call_log">
+        <item>android.permission.READ_CALL_LOG</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_write_call_log">
+        <item>yunos.permission.WRITE_CALL_LOG</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_read_sms_mms">
+        <item>android.permission.READ_SMS</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_write_sms_mms">
+        <item>yunos.permission.WRITE_SMS</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_read_device_id">
+        <item>yunos.permission.DEVICE_ID</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_read_call_state">
+        <item>yunos.permission.CALL_STATE</item>
+    </string-array>
+    <string-array name="aliperms_grp2_comm_intercept">
+        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
+        <item>android.permission.RECEIVE_SMS</item>
+        <item>android.permission.RECEIVE_MMS</item>
+        <item>android.permission.RECEIVE_WAP_PUSH</item>
+    </string-array>
+    <string-array name="aliperms_grp2_priv_location">
+        <item>yunos.permission.LOCATION_GPS</item>
+        <item>yunos.permission.LOCATION_CELL</item>
+    </string-array>
+    <string-array name="aliperms_grp2_priv_record_audio">
+        <item>android.permission.RECORD_AUDIO</item>
+    </string-array>
+    <string-array name="aliperms_grp2_priv_camera">
+        <item>android.permission.CAMERA</item>
+    </string-array>
+    <string-array name="aliperms_grp2_sec_internet_mobile">
+        <item>yunos.permission.MOBILE</item>
+    </string-array>
+    <string-array name="aliperms_grp2_sec_internet_wifi">
+        <item>yunos.permission.WIFI</item>
+    </string-array>
+    <string-array name="aliperms_grp2_sec_display">
+        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
+    </string-array>
+    <string-array name="aliperm_android_ali_mappings">
+        <item>android.permission.ACCESS_FINE_LOCATION</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION</item>
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission.WRITE_SMS</item>
+        <item>android.permission.CALL_PHONE</item>
+    </string-array>
+    <array name="aliperm_android_ali_mapping_id">
+        <item>@array/android_permission_ACCESS_FINE_LOCATION</item>
+        <item>@array/android_permission_ACCESS_COARSE_LOCATION</item>
+        <item>@array/android_permission_READ_PHONE_STATE</item>
+        <item>@array/android_permission_INTERNET</item>
+        <item>@array/android_permission_WRITE_CONTACTS</item>
+        <item>@array/android_permission_WRITE_SMS</item>
+        <item>@array/android_permission_CALL_PHONE</item>
+    </array>
+    <string-array name="android_permission_ACCESS_FINE_LOCATION">
+        <item>yunos.permission.LOCATION_CELL</item>
+        <item>yunos.permission.LOCATION_GPS</item>
+    </string-array>
+    <string-array name="android_permission_ACCESS_COARSE_LOCATION">
+        <item>yunos.permission.LOCATION_CELL</item>
+    </string-array>
+    <string-array name="android_permission_READ_PHONE_STATE">
+        <item>yunos.permission.DEVICE_ID</item>
+        <item>yunos.permission.CALL_STATE</item>
+    </string-array>
+    <string-array name="android_permission_INTERNET">
+        <item>yunos.permission.MOBILE</item>
+        <item>yunos.permission.WIFI</item>
+        <item>yunos.permission.SEND_MMS</item>
+        <item>yunos.permission.SEND_EMAIL</item>
+    </string-array>
+    <string-array name="android_permission_WRITE_CONTACTS">
+        <item>yunos.permission.WRITE_CONTACTS</item>
+    </string-array>
+    <string-array name="android_permission_WRITE_CALL_LOG">
+        <item>yunos.permission.WRITE_CALL_LOG</item>
+    </string-array>
+    <string-array name="android_permission_WRITE_SMS">
+        <item>yunos.permission.WRITE_SMS</item>
+    </string-array>
+    <string-array name="android_permission_CALL_PHONE">
+        <item>android.permission.CALL_PHONE</item>
+        <item>yunos.permission.END_CALL</item>
+    </string-array>
+    <string-array name="aliperm_custom_labels">
+        <item>@string/alipermlab_getdeviceId</item>
+        <item>@string/alipermlab_callstate</item>
+        <item>@string/alipermlab_location_cell</item>
+        <item>@string/alipermlab_location_gps</item>
+        <item>@string/alipermlab_network_mobile</item>
+        <item>@string/alipermlab_network_wifi</item>
+        <item>@string/alipermlab_write_contacts</item>
+        <item>@string/alipermlab_write_sms</item>
+        <item>@string/alipermlab_send_mms</item>
+        <item>@string/alipermlab_send_email</item>
+        <item>@string/alipermlab_end_call</item>
+        <item>@string/aliperms_grp2_sub_sec_display</item>
+    </string-array>
+    <string-array name="aliperm_custom_names">
+        <item>yunos.permission.DEVICE_ID</item>
+        <item>yunos.permission.CALL_STATE</item>
+        <item>yunos.permission.LOCATION_CELL</item>
+        <item>yunos.permission.LOCATION_GPS</item>
+        <item>yunos.permission.MOBILE</item>
+        <item>yunos.permission.WIFI</item>
+        <item>yunos.permission.WRITE_CONTACTS</item>
+        <item>yunos.permission.WRITE_SMS</item>
+        <item>yunos.permission.SEND_MMS</item>
+        <item>yunos.permission.SEND_EMAIL</item>
+        <item>yunos.permission.END_CALL</item>
+        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
+    </string-array>
+    <string-array name="aliperm_custom_names_always_ask">
+        <item>yunos.permission.MOBILE_OPEN</item>
+        <item>yunos.permission.WIFI_OPEN</item>
+        <item>yunos.permission.BT_OPEN</item>
+        <item>yunos.permission.NFC_OPEN</item>
+    </string-array>
+    <string-array name="aliperm_custom_labels_always_ask">
+        <item>@string/alipermlab_network_mobile_open</item>
+        <item>@string/alipermlab_network_wifi_open</item>
+        <item>@string/alipermlab_network_bt_open</item>
+        <item>@string/alipermlab_network_nfc_open</item>
+    </string-array>
+    <array name="perms_system_pkgs" />
+    <string-array name="autostart_monitor_pkgs_black">
+        <item>com.taobao.reader</item>
+        <item>com.etgame.majiangzq</item>
+        <item>org.cocos2dx.FishingJoy2</item>
+        <item>com.tmall.wireless</item>
+        <item>com.taobao.etao</item>
+        <item>com.taobao.caipiao</item>
+        <item>com.taobao.trip</item>
+        <item>com.taobao.ju.android</item>
+        <item>com.tadu.android</item>
+        <item>com.ifeng.news2</item>
+        <item>com.pplive.androidphone</item>
+        <item>com.imangi.templerun2.paid</item>
+        <item>cn.mobage.g12000113</item>
+        <item>com.toktoo.candymatchCMGE</item>
+        <item>com.mykj.game.ddz</item>
+        <item>com.locojoy.punchbox.immt_a_chs</item>
+        <item>com.sina.weibo</item>
+    </string-array>
+    <string-array name="autostart_monitor_pkgs_black_cta">
+        <item>com.taobao.reader</item>
+        <item>com.etgame.majiangzq</item>
+        <item>org.cocos2dx.FishingJoy2</item>
+        <item>com.taobao.taobao</item>
+        <item>com.duomi.yunos</item>
+        <item>com.taobao.reader</item>
+        <item>com.etgame.majiangzq</item>
+        <item>org.cocos2dx.FishingJoy2</item>
+        <item>com.tmall.wireless</item>
+        <item>com.taobao.etao</item>
+        <item>com.taobao.caipiao</item>
+        <item>com.taobao.trip</item>
+        <item>com.taobao.ju.android</item>
+        <item>com.tadu.android</item>
+        <item>com.ifeng.news2</item>
+        <item>com.pplive.androidphone</item>
+        <item>com.imangi.templerun2.paid</item>
+        <item>cn.mobage.g12000113</item>
+        <item>com.toktoo.candymatchCMGE</item>
+        <item>com.mykj.game.ddz</item>
+        <item>com.locojoy.punchbox.immt_a_chs</item>
+        <item>com.sina.weibo</item>
+    </string-array>
+    <array name="first_launch_monitor_pkgs" />
+    <string-array name="first_launch_monitor_pkgs_warning_txt">
+        <item>browser will cause your network flow damage</item>
+        <item>taobao will cause you to buy clothe</item>
+        <item>tmall will cause you to buy anything</item>
+        <item>caipiao will give you huge money</item>
+        <item>trip will let you trip free</item>
+    </string-array>
+    <string-array name="removable_apk_white_pkgs">
+        <item>com.qigame.lock.*</item>
+        <item>com.yunos.easyclone</item>
+        <item>com.baidu.netdisk</item>
+        <item>com.tencent.qqpim</item>
+        <item>com.aliyun.yunclienthelper</item>
+        <item>com.taobao.taobao</item>
+        <item>com.tmall.wireless</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.alibaba.android.babylon</item>
+        <item>com.alibaba.mobileim</item>
+        <item>com.alibaba.work.android</item>
+        <item>com.alibaba.android.security.activity</item>
+        <item>com.alibaba.bali.alimail</item>
+    </string-array>
+    <string-array name="write_sms_pkgs">
+        <item>com.aliyun.SecurityCenter</item>
+        <item>com.yunos.privacy</item>
+        <item>com.aliyun.test4yunos</item>
+        <item>com.yunos.test.tts</item>
+        <item>com.aliyun.yunclient</item>
+        <item>com.yunos.virtualcomm</item>
+        <item>com.yunos.easyclone</item>
+        <item>com.baidu.netdisk</item>
+        <item>com.tencent.qqpim</item>
+    </string-array>
+    <array name="autostart_monitor_actions" />
+</resources>

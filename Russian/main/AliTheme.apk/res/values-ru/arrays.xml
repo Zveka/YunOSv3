@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dc_groups">
+        <item>Тема</item>
+        <item>Экран блокировки</item>
+        <item>Обои</item>
+        <item>Шрифт</item>
+        <item>Рингтон</item>
+    </string-array>
+    <string-array name="main_local_groups_title">
+        <item>Локальная</item>
+        <item>Системная</item>
+    </string-array>
+    <integer-array name="dc_group_ids">
+        <item>1</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+    </integer-array>
+</resources>

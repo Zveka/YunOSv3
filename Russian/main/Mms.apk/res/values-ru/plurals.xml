@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контактов с номером телефона</item>
+        <item quantity="one">1 контакт с номером телефона</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d контактов найдено</item>
+        <item quantity="one">1 контакт найден</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d контактов найдено</item>
+        <item quantity="one">1 найден</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">слито из %0$d источников</item>
+        <item quantity="one">не слито</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d груп</item>
+        <item quantity="one">1 группа</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d человек из %2$s</item>
+        <item quantity="one">%1$d человек из %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Голосовых писем</item>
+        <item quantity="one">Голосовое письмо</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$s диалогов будет удалено</item>
+        <item quantity="one">Один диалог будет удален</item>
+    </plurals>
+    <plurals name="confirm_delete_multi_message">
+        <item quantity="other">%1$s сообщений будет удалено</item>
+        <item quantity="one">1 сообщение будет удалено</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s результатов для \"%2$s\"</item>
+        <item quantity="one">%1$s результат для \"%2$s\"</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s других сообщений</item>
+        <item quantity="one">+%1$s другое сообщение</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s людей</item>
+    </plurals>
+</resources>

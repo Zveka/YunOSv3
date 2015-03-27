@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="components">
+        <item>com.yunos.alicontacts/com.yunos.alicontacts.activities.PeopleActivity2</item>
+        <item>com.yunos.alicontacts/com.yunos.alicontacts.activities.DialtactsContactsActivity</item>
+        <item>com.android.mms/com.android.mms.ui.ConversationList</item>
+        <item>com.android.settings/com.android.settings.Settings</item>
+        <item>com.UCMobile.yunos/com.UCMobile.main.UCMobile</item>
+        <item>com.UCMobile/com.UCMobile.main.UCMobile</item>
+        <item>com.aliyun.wireless.vos.appstore/com.aliyun.wireless.vos.appstore.LogoActivity</item>
+    </string-array>
+    <string-array name="scene">
+        <item>yunos.vui.contact</item>
+        <item>yunos.vui.call</item>
+        <item>yunos.vui.sms</item>
+        <item>yunos.vui.setting</item>
+        <item>yunos.vui.website</item>
+        <item>yunos.vui.website</item>
+        <item>yunos.vui.application</item>
+    </string-array>
+    <string-array name="entries_effect_preference">
+        <item>Класический</item>
+        <item>Куб наружу</item>
+        <item>Куб внутрь</item>
+        <item>Поворот вверх</item>
+        <item>Поворот вниз</item>
+        <item>Затвор</item>
+        <item>Переворот</item>
+        <item>Масштабирование</item>
+        <item>Плавание</item>
+        <item>Затухание</item>
+    </string-array>
+    <array name="effect_choose_img">
+        <item>@drawable/effect_horizontal</item>
+        <item>@drawable/effect_box_out</item>
+        <item>@drawable/effect_box_in</item>
+        <item>@drawable/effect_roll_up</item>
+        <item>@drawable/effect_roll_down</item>
+        <item>@drawable/effect_roll_window</item>
+        <item>@drawable/effect_roll_over</item>
+        <item>@drawable/effect_scale_int_out</item>
+        <item>@drawable/effect_random_switch</item>
+        <item>@drawable/effect_right_fade</item>
+    </array>
+    <string-array name="entryvalues_effect_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="entries_layout_preference">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="entryvalues_layout_preference">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="sys_app_pkg_name">
+        <item>com.yunos.alicontacts</item>
+        <item>com.android.mms</item>
+        <item>com.yunos.alicontacts</item>
+        <item>com.aliyun.wireless.vos.appstore</item>
+        <item>com.aliyun.SecurityCenter</item>
+        <item>com.android.settings</item>
+        <item>com.aliyunos.filemanager</item>
+        <item>io.yunos.bbs</item>
+        <item>com.aliyun.issuereporter</item>
+        <item>com.yunos.easyclone</item>
+        <item>com.yunos.theme.thememanager</item>
+        <item>com.yunos.weatherservice</item>
+        <item>com.android.calendar</item>
+        <item>com.android.deskclock</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.yunos.compass</item>
+        <item>com.aliyun.mobile.email</item>
+        <item>com.aliyun.note</item>
+        <item>com.yunos.calculator</item>
+        <item>com.UCMobile</item>
+        <item>com.yunos.camera</item>
+        <item>com.aliyun.image</item>
+        <item>fm.xiami.yunos</item>
+        <item>com.aliyun.video</item>
+        <item>com.yunos.FMRadio</item>
+        <item>com.aliyun.soundrecorder</item>
+        <item>com.yunos.gamestore</item>
+    </string-array>
+    <string-array name="sys_app_cat_id">
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>48</item>
+        <item>70</item>
+        <item>72</item>
+        <item>72</item>
+        <item>72</item>
+        <item>74</item>
+        <item>76</item>
+        <item>76</item>
+        <item>86</item>
+        <item>86</item>
+        <item>86</item>
+        <item>226</item>
+        <item>228</item>
+        <item>228</item>
+        <item>230</item>
+        <item>230</item>
+        <item>230</item>
+        <item>230</item>
+        <item>344</item>
+    </string-array>
+    <string-array name="notification_type_title">
+        <item>Все уведомления</item>
+        <item>Только важные уведомления</item>
+        <item>Не уведомлять</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+    <string-array name="wallpapers">
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+        <item>wallpaper_07</item>
+        <item>wallpaper_08</item>
+        <item>wallpaper_09</item>
+        <item>wallpaper_10</item>
+        <item>wallpaper_11</item>
+        <item>wallpaper_12</item>
+    </string-array>
+</resources>

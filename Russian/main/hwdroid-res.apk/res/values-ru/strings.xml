@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hw_more">Еще</string>
+    <string name="hw_year">Г</string>
+    <string name="hw_month">М</string>
+    <string name="hw_day">Д</string>
+    <string name="hw_hour">Ч</string>
+    <string name="hw_minute">М</string>
+    <string name="hw_search_view_cancel">Отмена</string>
+</resources>

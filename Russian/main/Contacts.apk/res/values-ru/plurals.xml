@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d контактов с номерам телефона</item>
+        <item quantity="one">1 контакт с номером телефона</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">1 контакт</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d контактов найдено</item>
+        <item quantity="one">1 контакт найден</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">" ( %1$d )"</item>
+        <item quantity="one">" ( %1$d )"</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Голосовых сообщений</item>
+        <item quantity="one">Голосовое сообщение</item>
+    </plurals>
+</resources>

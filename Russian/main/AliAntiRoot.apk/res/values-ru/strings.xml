@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">защита системы</string>
+    <string name="permission_remember_choice">Запомнить мой выбор</string>
+    <string name="root_notify_context">ваш девайс рутирован %1$s</string>
+    <string name="root_refuse_context">в доступе руткиту %1$s отказано.</string>
+    <string name="root_allow_context">в доступе руткиту %1$s разрешено.</string>
+    <string name="rooted_notify_context">ваш девайс рутирован</string>
+    <string name="rooted_confirm">продолжить</string>
+    <string name="scan_verus">сканировать verus</string>
+    <string name="continue_pay">продолжить</string>
+    <string name="rooted_warning_ticket">Система рутирована и больше не защищена</string>
+    <string name="rooted_warning_title">Система рутирована и больше не защищена</string>
+    <string name="rooted_warning_text">немедленное сканирование на наличие вирусов не помешает.</string>
+    <string name="rooted_launch_warning">Система рутирована и больше не защищена, немедленное сканирование на наличие вирусов не помешает.</string>
+    <string name="security_notification">уведомление безопасности</string>
+    <string name="know">OK</string>
+    <string name="root_notify_confirm">%1$s%2$s&lt;br>попыток получить рут доступ, и YunOS остановила их. Ваше устройство мурчит.</string>
+    <string name="third_software">Приложение 3й стороны:</string>
+    <string name="normal_app_or_proc">Приложение/Процесс:</string>
+    <string name="adb">ADB</string>
+    <string name="unknown">неизвестный процесс</string>
+    <string name="refuse">отказать</string>
+    <string name="allow">разрешить</string>
+</resources>

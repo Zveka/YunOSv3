@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_sim_cards">
+        <item>@string/sim_card_1</item>
+        <item>@string/sim_card_2</item>
+    </string-array>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>${name}</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>${name}</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>нет субъекта</item>
+    </string-array>
+    <string-array name="restore_msg_counts_select">
+        <item>Восстановить последние 500 сообщений</item>
+        <item>Восстановить последние 1000 сообщений</item>
+        <item>Восстановить все сообщения</item>
+    </string-array>
+    <string-array name="cloud_msg_select">
+        <item>Назад в Облако</item>
+        <item>Восстановить последние 500 сообщений</item>
+        <item>Восстановить последние 1000 сообщений</item>
+        <item>Восстановить все сообщения</item>
+    </string-array>
+    <string-array name="msg_text_size_select">
+        <item>Системный</item>
+        <item>Стандартный</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="mms_picture_selection">
+        <item>Картинка</item>
+        <item>Камера</item>
+    </string-array>
+    <string-array name="mms_video_selection">
+        <item>Видео</item>
+        <item>Снять видео</item>
+    </string-array>
+    <string-array name="timestamp_message">
+        <item>Время отправления</item>
+        <item>Время получения</item>
+    </string-array>
+    <array name="config_sms_enabled_single_shift_tables" />
+    <array name="config_sms_enabled_locking_shift_tables" />
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Заметки</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 сек.</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 сек.</item>
+        <item>6 сек.</item>
+        <item>7 сек.</item>
+        <item>8 сек.</item>
+        <item>9 сек.</item>
+        <item>10 сек.</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="intecepter_type">
+        <item>Block calls</item>
+        <item>Block SMS</item>
+    </string-array>
+</resources>
