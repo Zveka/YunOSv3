@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Инженерный Режим</string>
-    <string name="error">Упс, ошибочка. Похоже Ваш процессор не поддерживается или у вас отсутствует инженерное меню.</string>
-    <string name="delete">Удалить приложение</string>
-    <string name="gp">Оценить!</string>
-    <string name="exit">Выход</string>
-</resources>

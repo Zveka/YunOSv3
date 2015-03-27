@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="search_grid_columns">2</integer>
-    <integer name="yun_city_db_version">8</integer>
-    <integer name="max_city_search_length">50</integer>
-</resources>
